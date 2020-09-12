@@ -1,19 +1,5 @@
-# Git-Test-repo i can do
+# Git-Test-repo 
 
-My first remote change
+second line
 
-My first local change!
 
-My second remote change
-
-THIRD LOCAL CHANGE
-Third remote change,hahhaha
-ADD ONE MORE LINE
-
-fourth remote change
-
-isolate checck, i check this'
-
-asd
-
-This is for stash
